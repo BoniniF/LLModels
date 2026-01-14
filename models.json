@@ -1,4 +1,9 @@
 [
+  { "value": "openai/gpt-oss-120b", "label": "OpenAI gpt-oss-120b" },
+  { "value": "deepseek-ai/deepseek-r1", "label": "DeepSeek R1" },
+  { "value": "deepseek-ai/deepseek-v3.2", "label": "DeepSeek3.2" },
+  { "value": "moonshotai/kimi-k2-instruct", "label": "Kimi K2" },
+{},
   { "value": "Gemma-3-27B-Big-Tiger-v3", "label": "Gemma3-BigTiger" },
   { "value": "Gemma-3-27B-Nidum-Uncensored", "label": "Gemma3 Uncensored" },
   { "value": "GLM-4.7", "label": "GLM4.7" },
