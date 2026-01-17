@@ -56,7 +56,7 @@
 { "value": "mistralai/mistral-small-3.1-24b-instruct:free", "label": "Mistral 24b instruct" },
 { "value": "cognitivecomputations/dolphin3.0-mistral-24b:free", "label": "Dolphin3.0 Mistral" },
     { "value": "bytedance-seed/seedream-4.5", "label": "Bytedance-seedream4.5" },
-        { "value": "nousresearch/hermes-3-llama-3.1-405b:free", "label": "Hermes3 llama3.1"}
+        { "value": "nousresearch/hermes-3-llama-3.1-405b:free", "label": "Hermes3 llama3.1"},
     { "value": "arcee-ai/trinity-mini:free", "label": "ArceeAI trinity-mini" },
 { "value": "allenai/molmo-2-8b:free", "label": "AllenAI molmo2-8b" },
 { "value": "sourceful/riverflow-v2-fast-preview", "label": "RiverFlowV2 sourceFul-fast" },
