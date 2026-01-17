@@ -59,6 +59,6 @@
         { "value": "nousresearch/hermes-3-llama-3.1-405b:free", "label": "Hermes3 llama3.1"},
     { "value": "arcee-ai/trinity-mini:free", "label": "ArceeAI trinity-mini" },
 { "value": "allenai/molmo-2-8b:free", "label": "AllenAI molmo2-8b" },
-{ "value": "sourceful/riverflow-v2-fast-preview", "label": "RiverFlowV2 sourceFul-fast" },
+{ "value": "sourceful/riverflow-v2-fast-preview", "label": "RiverFlowV2 sourceFul-fast" }
 
 ]
