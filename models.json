@@ -8,6 +8,7 @@
     { "value": "moonshotai/kimi-k2.5", "label": "Kimi K2.5" },
   { "value": "moonshotai/kimi-k2-instruct", "label": "Kimi K2" },
     {"value": "nvidia/nemotron-nano-12b-v2-vl", "label": "Netromon-nano12b"},
+    { "value": "ai21labs/jamba-1.5-mini-instruct", "label": "jamba1.5" },
 {},
   { "value": "Gemma-3-27B-Big-Tiger-v3", "label": "Gemma3-BigTiger" },
   { "value": "Gemma-3-27B-Nidum-Uncensored", "label": "Gemma3 Uncensored" },
